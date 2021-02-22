@@ -5,7 +5,7 @@ date: 2021-02-22T16:31:30+00:00
 header:
   teaser: /assets/images/quayside_sunrise/quayside-th.jpg
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/quayside_sunrise/buildings.jpg
 categories:
   - Photography
