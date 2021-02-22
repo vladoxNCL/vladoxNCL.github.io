@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/quayside_sunrise/buildings.jpg
 categories:
-  - Photography
+  - Blog
 tags:
   - Newcastle
   - Sunrise
