@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Vladimiro González-Zelaya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student at Newcastle University, doing research on algorithmic fairness. I am an amateur photographer and semi-retired go player."
+  bio    : "PhD student at Newcastle University, doing research on algorithmic fairness. Amateur photographer and semi-retired go player."
   links:
     #    - label: "Website"
     #      icon: "fas fa-fw fa-link"
