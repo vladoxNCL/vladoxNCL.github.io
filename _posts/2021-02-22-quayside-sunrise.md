@@ -13,6 +13,7 @@ tags:
   - Sunrise
   - Colours
   - Cityscape
+excerpt: "Beautiful colours and reflections on the River Tyne."
 gallery:
   - url: /assets/images/quayside_sunrise/quayside.jpg
     image_path: /assets/images/quayside_sunrise/quayside-th.jpg
