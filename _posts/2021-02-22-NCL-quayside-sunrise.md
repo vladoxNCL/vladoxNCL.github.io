@@ -1,7 +1,7 @@
 ---
 title: "Quayside Sunrise"
 layout: splash
-date: 2021-02-22T16:31:30-01:00
+date: 2021-02-22T13:31:30+00:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
