@@ -42,4 +42,4 @@ gallery:
 
 Newcastle has very beautiful sunrises. They don't happen often (the purple ones are particularly rare), but when they do, it is a spectacle to behold. Luckily, NCL's northern latitude means that, at least during the winter, the sunrise occurs quite late, making it easier to get out of bed in time!
 
-{% include gallery caption="Shot on the 20th of February, 2021 from the top of the Tyne Bridge, NCL." %}
+{% include gallery layout="half" caption="Shot on the 20th of February, 2021 from the top of the Tyne Bridge, NCL." %}
