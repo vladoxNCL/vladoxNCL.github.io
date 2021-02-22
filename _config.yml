@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Vladimiro GZ's Blog
+title: Vladimiro González-Zelaya
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog. In here I will post advances on my research, photos I take and maybe at some point I'll write about the game of go, videogames, programming and whatnot. Enjoy your stay!
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Vladimiro GZ"
+  name   : "Vladimiro González-Zelaya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student researching algorithmic fairness, amateur photographer and semi-retired go player."
+  bio    : "PhD student at Newcastle University, doing research on algorithmic fairness. I am an amateur photographer and semi-retired go player."
   links:
     #    - label: "Website"
     #      icon: "fas fa-fw fa-link"
