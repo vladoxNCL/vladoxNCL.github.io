@@ -34,14 +34,6 @@ gallery:
     image_path: /assets/images/ladybirds/larva-th.jpg
     alt: "Ladybird larva. During this phase, they are voracious flower eaters."
     title: "Ladybird larva. During this phase, they are voracious flower eaters."
-  - url: /assets/images/ladybirds/down.jpg
-    image_path: /assets/images/ladybirds/down-th.jpg
-    alt: "Descent."
-    title: "Descent."
-  - url: /assets/images/ladybirds/void.jpg
-    image_path: /assets/images/ladybirds/void-th.jpg
-    alt: "Looking into the void."
-    title: "Looking into the void."
   - url: /assets/images/ladybirds/pair.jpg
     image_path: /assets/images/ladybirds/pair-th.jpg
     alt: "Ladybird interaction."
@@ -50,6 +42,14 @@ gallery:
     image_path: /assets/images/ladybirds/back-th.jpg
     alt: "A slightly less common angle."
     title: "A slightly less common angle."
+  - url: /assets/images/ladybirds/down.jpg
+    image_path: /assets/images/ladybirds/down-th.jpg
+    alt: "Descent."
+    title: "Descent."
+  - url: /assets/images/ladybirds/void.jpg
+    image_path: /assets/images/ladybirds/void-th.jpg
+    alt: "Looking into the void."
+    title: "Looking into the void."
 ---
 
 During May, June and July, lots of ladybirds show up and mate around town. These pics were shot just next to Central Station, on a deserted parking lot the beetles decided to call home.
