@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/ladybirds/finger-th.jpg
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/ladybirds/void.jpg
+  overlay_image: /assets/images/ladybirds/pair.jpg
 categories:
   - Photography
 tags:
@@ -42,6 +42,14 @@ gallery:
     image_path: /assets/images/ladybirds/void-th.jpg
     alt: "Looking into the void."
     title: "Looking into the void."
+  - url: /assets/images/ladybirds/pair.jpg
+    image_path: /assets/images/ladybirds/pair-th.jpg
+    alt: "Ladybird interaction."
+    title: "Ladybird interaction."
+  - url: /assets/images/ladybirds/back.jpg
+    image_path: /assets/images/ladybirds/back-th.jpg
+    alt: "A slightly less common angle."
+    title: "A slightly less common angle."
 ---
 
 During May, June and July, lots of ladybirds show up and mate around town. These pics were shot just next to Central Station, on a deserted parking lot the beetles decided to call home.
