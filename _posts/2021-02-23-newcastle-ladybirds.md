@@ -36,8 +36,8 @@ gallery:
     title: "Ladybird larva. During this phase, they are voracious flower eaters."
   - url: /assets/images/ladybirds/down.jpg
     image_path: /assets/images/ladybirds/down-th.jpg
-    alt: "No pass."
-    title: "No pass."
+    alt: "Descent."
+    title: "Descent."
   - url: /assets/images/ladybirds/void.jpg
     image_path: /assets/images/ladybirds/void-th.jpg
     alt: "Looking into the void."
